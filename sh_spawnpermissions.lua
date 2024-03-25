@@ -22,6 +22,7 @@ local ignoreHooks = { -- Theese are the hooks that can be controlled in sAdmin
     "PlayerSpawnProp",
     "PlayerSpawnRagdoll",
     "PlayerSpawnSENT",
+    "PlayerGiveSWEP",
     "PlayerSpawnSWEP",
     "PlayerSpawnVehicle"
 }
